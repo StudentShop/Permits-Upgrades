@@ -6,22 +6,20 @@ This repository contains all current shop training support material (excluding v
 
 ## Installation
 
-1. [Download the guide](https://github.com/StudentShop/Permits-Upgrades/archive/master.zip) or clone it locally with [Git](http://www.git-scm.com/).
-2. Navigate to the "Permits-Upgrades" directory and then to whichever directory has the training material you are interested in.
-3. Open the file(s) of interest.
+1. [Download the repository](https://github.com/StudentShop/Permits-Upgrades/archive/master.zip) or clone it locally with [Git](http://www.git-scm.com/).
 
 ## Usage
 
-The training material available in this repository goes along with the shop training listed on the CoE Student Shop website: https://coestudentshop.engr.wisc.edu/permit/index.php
+The training material available in this repository goes along with the shop training listed on the CoE Student Shop website: https://coestudentshop.engr.wisc.edu/permit/index.php.
 
 ## Known Issues
 See [Issues List](https://github.com/StudentShop/Permits-Upgrades/issues).
 
-If you discover any errors, feel free to [create an issue](https://github.com/StudentShop/Permits-Upgrades/issues/new) on GitHub. If you would like to contribute a fix or add additional information to the guide see [Contributing](https://github.com/StudentShop/Permits-Upgrades/blob/master/README.md#contributing) below.
+If you discover any errors, feel free to [create an issue](https://github.com/StudentShop/Permits-Upgrades/issues/new) on GitHub. If you would like to contribute a fix or improve the content see [Contributing](https://github.com/StudentShop/Permits-Upgrades/blob/master/README.md#contributing) below.
 
-## Author
+## Authors
 
-* Charles Allhands (https://github.com/callhands)
+* CoE Student Shop Staff
 
 ## License
 
